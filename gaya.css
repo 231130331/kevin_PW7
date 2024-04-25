@@ -1,0 +1,85 @@
+header{
+    border-radius: 10px;
+    padding-top: 1cm;
+    background-color: rgb(0, 195, 255); 
+}
+body{
+    background-color: aquamarine;
+    text-indent: 1%;
+}
+article{
+    background-color: rgb(0, 255, 191);
+    border-radius: 16px;
+    padding: 3px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+aside{
+    background-color: antiquewhite;
+    border-radius: 16px;
+    border: 3cm;
+    padding: 1px;
+
+}
+h1.judul{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(38, 128, 134);
+    box-shadow: 30cm;
+    text-shadow: 10cm;
+    border: 4px rgb(0, 255, 242) outset;
+    border-radius: 5px;
+    margin: 100px 200px;
+    font-size: 50px;
+    font-weight: 10px;
+    text-shadow: 2px 2px black;
+}
+nav{
+    text-align: center;
+    line-height: 1cm;
+    background-color: rgb(23, 255, 255);
+    box-shadow: 30cm;
+
+}
+a.navi{
+    padding: 100px;
+    color: rgb(20, 48, 59);
+}
+p{
+    font-family: serif;
+    padding-left: 0.2cm;
+}
+span.red{
+    color: red;
+}
+span.violet{
+    color:violet;
+}
+img.artikel1{
+    height: 300px;
+    width: 400px;
+    display: block;
+    margin: auto;
+    padding: 20px 100px;
+    background: linear-gradient(180deg, rgba(0,254,255,1) 0%, rgba(0,232,255,1) 52%, rgba(0,212,255,1) 100%);
+    border-radius: 10px;
+    border: 3px rgb(23, 255, 255) outset;
+}
+img.artikel2{
+    height: 300px;
+    width: 400px;
+    display: block;
+    padding: 20px 20px;
+    background: linear-gradient(180deg, rgba(0,254,255,1) 0%, rgba(0,232,255,1) 52%, rgba(0,212,255,1) 100%);
+    border-radius: 10px;
+    border: 3px rgb(23, 255, 255) outset;
+}
+
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+img{
+    border-radius: 10px;
+}
